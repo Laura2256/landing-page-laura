@@ -11,13 +11,15 @@ body{
 h1{
     font-family: 'Urbanist', sans-serif;
     font-size: 45px;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    text-shadow: 1px 1px 3px rgb(0, 0, 0);
     font-weight: 900;
 }
 
 h2{
     font-family: 'Urbanist', sans-serif;
     text-align: center;
+    color: rgb(0, 0, 0);
     font-weight: 700;
 }
 
@@ -33,14 +35,15 @@ h2{
 
 #title1 {
     width: 50%;
-    margin: 60px auto;
+    margin: 30px auto;
 }
 
 #banner-p {
-    color: white;
+    color: rgb(255, 255, 255);
     font-size : 24px; 
     font-weight : 400px;
     margin-bottom: 80px ;
+    text-shadow: 1px 1px 3px rgb(0, 0, 0);
 }
 
 .btn-blue{
